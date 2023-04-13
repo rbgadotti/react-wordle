@@ -1,0 +1,9 @@
+const GAME_CONFIG = {
+  SQUARE_SIZE: 69,
+  SQUARE_COLOR: "#4C4247",
+  LETTER_SIZE: 28,
+  WORD_SIZE: 5,
+  ATTEMPTS: 5,
+}
+
+export default GAME_CONFIG;
